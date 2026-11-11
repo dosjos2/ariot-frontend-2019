@@ -1,3 +1,30 @@
+# ARIoT frontend 2019
+
+Frontend for ARIoT-nettstedet bygget med React og Create React App. Innhold om blant annet jury, foredragsholdere og komité hentes fra WordPress.
+
+## Innhold
+
+- `src/`: komponenter, sider, ruting, ressurser og data.
+- `public/`: statiske filer.
+- `package.json`: avhengigheter og kommandoer for utvikling, test og bygg.
+- `azure-pipelines.yml`: opprinnelig oppsett for Azure Pipelines.
+
+Kilderepoet hos dosjos er en fork av [ARIoT/ariot-frontend-2019](https://github.com/ARIoT/ariot-frontend-2019), opprettet 2019-08-05. Opprettelsesdatoen nedenfor gjelder dosjos-forken. Eksisterende utviklingsnotater er bevart nedenfor.
+
+## Opphav og historikk
+
+- Opprinnelig repo: [dosjos/ariot-frontend-2019](https://github.com/dosjos/ariot-frontend-2019).
+- Opprinnelig opprettet på GitHub: **2020-03-03 22:08:49 UTC** (GitHubs metadata for kilderepoet).
+- Denne kopien: [dosjos2/ariot-frontend-2019](https://github.com/dosjos2/ariot-frontend-2019).
+
+Flyttet fra `dosjos` til `dosjos2` fordi eieren mistet tilgangen til den opprinnelige kontoen. Eksisterende Git-historikk, forfattere, grener og tags er bevart; README-oppdateringen er en ny commit. GitHub-opprettelsesdatoen for denne kopien er datoen for flyttingen, og erstatter ikke datoen ovenfor.
+
+Beskrivelsen er basert på kildekoden og prosjektfilene. Bygg og kjøring av de historiske prosjektene er ikke verifisert ved flyttingen. Eksisterende lisensfiler og krediteringer gjelder fortsatt.
+
+---
+
+## Opprinnelig README
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Up and running! (Kajas notes)
